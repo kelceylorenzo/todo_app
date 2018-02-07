@@ -55,7 +55,7 @@ class AddForm extends Component {
 							/>
 						</div>
 						<div className="right-align">
-							<button className="btn blue darken-3" onClick={this.addItem}>
+							<button className="btn blue darken-3 btn-large" onClick={this.addItem}>
 								Add Item
 							</button>
 						</div>
